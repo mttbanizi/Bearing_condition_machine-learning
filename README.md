@@ -1,0 +1,2 @@
+# Bearing_condition_machine-learning
+Bearing_condition_machine learning
